@@ -7,7 +7,7 @@
 - This part of the application allows you to calculate the factorial of numbers from 1 to 10 and display them in a table.
 
 ## Age Calculation: 
-= This part of the application includes a form that allows you to calculate your age based on your birth date and the date you want to calculate your age for.
+- This part of the application includes a form that allows you to calculate your age based on your birth date and the date you want to calculate your age for.
 
 ## Usage
 
